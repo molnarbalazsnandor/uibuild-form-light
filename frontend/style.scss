@@ -114,6 +114,7 @@ body {
                 justify-self: flex-start !important;
                 position: relative;
                 left: 20px;
+                //a max-width és a balra pozicionálás már túlságosan eltolja, ha az utóbbit kivenném, akkor sokkal jobban hasonlítana  a sablonokhoz
             }
             .terms{
                 max-width: calc(100% - 20px);
